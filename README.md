@@ -1,1 +1,1 @@
-# me
+Md. Farhan Tabin is a student, web developer, robotics enthusiast, and content creator from Sreepur, Magura, Bangladesh. A 2x National participant/winner in the Bangladesh Mathematical Olympiad (BdMO) and a member of Bangladesh Scouts, he builds live web applications—including BDBloodConnect and Synapse—alongside robotics and coding projects (GitHub: @ftabin3). Outside of tech, he runs the Stunt FTabin YouTube channel, showcasing bicycle stunts, speedcubing, and RC/model plane flying.
